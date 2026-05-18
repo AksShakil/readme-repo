@@ -1,1 +1,4 @@
-i have not done it
+i have not done it.
+
+
+it is almost done for update file local repository and remote repository.
